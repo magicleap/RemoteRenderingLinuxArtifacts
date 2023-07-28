@@ -1,0 +1,2 @@
+The use of this software is governed by Magic Leap's EULA, found at https://www.magicleap.com/application-end-user-license-agreement-default-eula
+Open Source Software Notices for this software can be found at https://www.magicleap.com/ml2-open-source-software-notices
